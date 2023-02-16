@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.btn1 {
+    margin-left: 300px;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+
+.container {
+    height: 550px;
+    width: 1500px;
+    border: 1px solid padding: 20px;
+    background-color: white;
+}
+
+.img {
+    margin-top: 150px;
+    margin-left: 80px;
+    border-radius: 420px;
+    height: 150px;
+    width: 150px;
+}
+
+.nv {
+    text-align: center;
+}
+
+.col-5 {
+    box-shadow: 1px 0px 1px 0px;
+}

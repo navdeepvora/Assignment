@@ -1,0 +1,121 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(62, 205, 62);
+
+
+}
+
+.form-group {
+    width: 60%;
+    border: 1px solid rgb(179, 228, 179);
+    border-radius: 7px;
+    background-color: rgb(129, 218, 129);
+    padding: 8px;
+    font-size: 20px;
+}
+
+.button {
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 300px;
+    margin-top: 10px;
+    background: #fd2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.i1 {
+    width: 70px;
+}
+
+.i2 {
+    width: 60px;
+}
+
+.i3 {
+    width: 60px;
+}
+
+.n1 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 23px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n2 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 20px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n3 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 20px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n4 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 13px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n5 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 9px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n6 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 16px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n7 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 1px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n8 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 1px;
+    border: none;
+    border-radius: 7px;
+}
+
+.n9 {
+    width: 40%;
+    height: 47px;
+    position: relative;
+    left: 0.5px;
+    border: none;
+    border-radius: 7px;
+}
